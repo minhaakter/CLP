@@ -1,5 +1,5 @@
 # CLP
 
-![Output](screenshot/clpoutput1.png)
+![Output](screenshot/clp output1.png)
 
 
